@@ -1,0 +1,16 @@
+{
+  "name": "algo/test.bootstrap",
+  "description": "no",
+
+  "license": "proprietary",
+  "authors": [
+    {
+      "name": "algo",
+      "email": "algosoft@mail.ru"
+    }
+  ],
+  "require": {
+    "twitter/bootstrap": "v3.3.6",
+    "components/jquery": "2.2.0"
+  }
+}

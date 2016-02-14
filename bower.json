@@ -1,0 +1,21 @@
+{
+  "name": "test.bootstrap",
+  "description": "no desc",
+  "main": "index.js",
+  "authors": [
+    "immarketing <immarketing@mail.ru>"
+  ],
+  "license": "ISC",
+  "moduleType": [
+    "globals"
+  ],
+  "homepage": "",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
